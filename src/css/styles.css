@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* body{
+  display: flex;
+  width: 1440px;
+} */
+/* 
+
+.faq-accordion-content {  
+  display: none; Приховати весь контент за замовчуванням   */
+/* }  
+.faq-accordion {
+  max-width: 688px;
+} */
+
+/* .faq-item {
+  border-top: 1px solid #ccc;
+  /* border-bottom: 1px solid #ccc; */
+/* }  */
+/* 
+.faq-accordion-header {  
+  cursor: pointer;  
+  display: flex;  
+  justify-content: space-between;
+  max-width: 465px; */
+  /* align-items: center;   */
+  /* background-color: #f1f1f1;   */
+  /* padding: 10px;   */
+  /* border-bottom: 1px solid #ccc;
+  border-top: 1px solid #ccc; */
+/* }   */
+
+/* .faq-accordion-header:hover {   */
+  /* background-color: #ddd;   */
+/* }   */
+
+/* .faq-icon { 
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: center;
+  min-width: 40px;
+  height: 40px;
+  margin-right: 5px;
+  margin-left: 131px;  
+  border: 2px solid black;
+  border-radius: 50%;
+}   */
